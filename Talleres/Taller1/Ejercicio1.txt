@@ -1,0 +1,51 @@
+Encabezado: 
+  Nombre : Jeison Melendez Arrieta
+  Carné : 2015007934
+Solución del ejercicio: 
+  Fecha: Sat Feb  9 00:26:44 UTC 2019
+  Usuario: curso
+  Kernel: 4.16.0-0.bpo.2-amd64
+  Procesos: USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+curso     1201  0.0  0.1  71212  7344 ?        Ss   17:08   0:00 /lib/systemd/systemd --user
+curso     1202  0.0  0.0 253892  2148 ?        S    17:08   0:00 (sd-pam)
+curso     1209  0.0  0.2 212980  8660 ?        Sl   17:08   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+curso     1211  0.0  0.5 416812 20528 ?        Ssl  17:08   0:00 x-session-manager
+curso     1219  0.0  0.1  39812  4268 ?        Ss   17:08   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+curso     1249  0.0  0.0  11088   332 ?        Ss   17:08   0:00 /usr/bin/ssh-agent x-session-manager
+curso     1253  0.0  0.1 348868  5972 ?        Ssl  17:08   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+curso     1258  0.0  0.0  45692  3488 ?        S    17:08   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+curso     1260  0.0  0.1 222252  5396 ?        Sl   17:08   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+curso     1271  0.0  1.3 1439768 51084 ?       Sl   17:08   0:03 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/cinnamon-settings-daemon
+curso     1286  0.0  0.3 1427356 12632 ?       S<l  17:08   0:01 /usr/bin/pulseaudio --start --log-target=syslog
+curso     1309  0.0  0.1 284316  6548 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfsd
+curso     1314  0.0  0.1 491568  6992 ?        Sl   17:08   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/59356/gvfs -f -o big_writes
+curso     1325  0.0  0.1 187416  4844 ?        Sl   17:08   0:00 /usr/lib/dconf/dconf-service
+curso     1328  0.0  0.3 351132 12384 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+curso     1340  0.0  0.1 283528  5472 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+curso     1344  0.0  0.1 370184  7216 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+curso     1351  0.0  0.1 271340  4916 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+curso     1355  0.0  0.1 269516  5644 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+curso     1359  0.0  0.8 118198912 32852 ?     Sl   17:08   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+curso     1367  0.0  0.1 295828  7380 ?        Sl   17:08   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+curso     1372  0.0  0.7 182780 28296 ?        S    17:08   0:00 /usr/bin/python3 /usr/bin/cinnamon-launcher
+curso     1375  0.0  0.3 497140 14104 ?        Sl   17:08   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+curso     1389  2.5  6.6 1930024 262708 ?      Sl   17:08   2:00 cinnamon --replace
+curso     1395  0.1  0.6 519428 23852 ?        Sl   17:08   0:07 clipit
+curso     1396  0.0  0.5 323036 20680 ?        Sl   17:08   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+curso     1397  0.0  0.7 511660 31264 ?        Sl   17:08   0:00 nm-applet
+curso     1400  0.1  1.2 854892 50980 ?        Sl   17:08   0:08 nemo -n
+curso     1401  0.0  0.7 408620 29396 ?        Sl   17:08   0:00 /usr/bin/python3 /usr/bin/cinnamon-killer-daemon
+curso     1423  0.0  0.1 360328  6536 ?        Sl   17:08   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.12 /org/gtk/gvfs/exec_spaw/0
+curso     1433  0.0  0.1 195500  5364 ?        Ssl  17:08   0:00 /usr/lib/gvfs/gvfsd-metadata
+curso     1439  0.0  1.2 651360 47192 ?        Sl   17:09   0:01 cinnamon-screensaver
+curso     1473  0.0  0.7 241276 31316 ?        Sl   17:09   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+curso     1481  7.2 12.6 2392832 496864 ?      Sl   17:09   5:36 /usr/lib/firefox-esr/firefox-esr
+curso     1525 15.5 23.4 2933900 922680 ?      Sl   17:09  11:58 /usr/lib/firefox-esr/plugin-container -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appdir /usr/lib/firefox-esr/browser 1481 true tab
+curso     1961  0.0  0.1 436408  6892 ?        Sl   17:31   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.12 /org/gtk/gvfs/exec_spaw/2
+curso     1984  0.0  0.2 373632  8796 ?        Sl   17:31   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.12 /org/gtk/gvfs/exec_spaw/5
+curso     2021  0.2  1.0 636384 40236 ?        Ssl  17:32   0:07 /usr/lib/gnome-terminal/gnome-terminal-server
+curso     2027  0.0  0.1  13068  5148 pts/0    Ss+  17:32   0:00 bash
+curso     2109  0.0  0.1  64928  5396 ?        S    17:38   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+curso     2262  0.5  1.2 653368 49992 ?        Sl   18:11   0:04 /usr/bin/gedit --gapplication-service
+curso     2313  0.0  0.0  27408  1400 pts/0    R+   18:26   0:00 ps -ux
+

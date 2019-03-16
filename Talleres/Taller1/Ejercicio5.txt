@@ -1,0 +1,5 @@
+[    4.566860] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    4.567652] usb usb2: New USB device found, idVendor=1d6b, idProduct=0003
+[    5.052868] usb 1-7: New USB device found, idVendor=8087, idProduct=0a2b
+[    5.329244] usb 1-8: New USB device found, idVendor=138a, idProduct=003f
+[    5.654818] usb 1-9: New USB device found, idVendor=04ca, idProduct=7054
