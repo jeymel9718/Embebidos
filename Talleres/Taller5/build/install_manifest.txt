@@ -1,0 +1,3 @@
+/local/home/curso/Documents/Taller5/build/usr/bin/calculadora
+/local/home/curso/Documents/Taller5/build/usr/lib/libliboperaciones.so
+/local/home/curso/Documents/Taller5/build/usr/include/operaciones.h

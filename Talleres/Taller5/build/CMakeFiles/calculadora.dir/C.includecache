@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/operaciones.h
+
+/local/home/curso/Documents/Taller5/calculadora.c
+stdio.h
+-
+operaciones.h
+-
+
