@@ -1,2 +1,8 @@
 # Ignore VSCODE folder
 .vscode/
+.tmp_versions/
+
+.*.cmd
+.*mk
+*.o
+*.ko
